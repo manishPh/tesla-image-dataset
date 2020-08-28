@@ -1,0 +1,72 @@
+.App {
+    text-align: center;
+}
+
+.label {
+    border-radius: 3px;
+    background-color: khaki;
+    font-weight: bold;
+    padding: 5px;
+    width: 125px;
+}
+
+.highlight {
+    padding: 1px;
+    border: 2px solid red;
+    border-radius: 2px;
+}
+
+.image-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image {
+    position: relative;
+    margin-bottom: 40px;
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: oldlace;
+}
+
+.image > div {
+    position: relative;
+}
+
+.image img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.filter {
+    padding: 5px;
+    position: sticky;
+    top: 90px;
+    z-index: 1;
+    background: white;
+    padding: 20px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+.label-select {
+    margin-left: 10px;
+    display: inline-block;
+    width: 400px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    padding: 10px;
+    background-color: gold;
+    color: darkgreen;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    height: 70px;
+}

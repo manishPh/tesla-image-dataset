@@ -1,0 +1,3746 @@
+[
+    {
+        "imageName": "02-25 13.26.44.jpg",
+        "top": "131",
+        "left": "1687",
+        "width": "163",
+        "height": "163",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-25 13.33.43.jpg",
+        "top": "399",
+        "left": "256",
+        "width": "36",
+        "height": "33",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 13.37.16.jpg",
+        "top": "400",
+        "left": "249",
+        "width": "44",
+        "height": "44",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 14.21.59.jpg",
+        "top": "392",
+        "left": "458",
+        "width": "34",
+        "height": "32",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 14.25.06.jpg",
+        "top": "332",
+        "left": "232",
+        "width": "78",
+        "height": "72",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 15.26.11.jpg",
+        "top": "362",
+        "left": "452",
+        "width": "36",
+        "height": "37",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 15.55.28.jpg",
+        "top": "369",
+        "left": "337",
+        "width": "41",
+        "height": "46",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 15.59.15.jpg",
+        "top": "385",
+        "left": "296",
+        "width": "45",
+        "height": "39",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 16.00.13.jpg",
+        "top": "384",
+        "left": "417",
+        "width": "34",
+        "height": "34",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 16.00.48.jpg",
+        "top": "386",
+        "left": "247",
+        "width": "48",
+        "height": "41",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 16.02.16.jpg",
+        "top": "382",
+        "left": "304",
+        "width": "47",
+        "height": "46",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 16.02.59.jpg",
+        "top": "355",
+        "left": "191",
+        "width": "46",
+        "height": "55",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 16.04.45.jpg",
+        "top": "331",
+        "left": "97",
+        "width": "69",
+        "height": "73",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 16.06.01.jpg",
+        "top": "374",
+        "left": "289",
+        "width": "50",
+        "height": "49",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 16.07.30.jpg",
+        "top": "444",
+        "left": "560",
+        "width": "21",
+        "height": "23",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 16.18.51.jpg",
+        "top": "384",
+        "left": "489",
+        "width": "37",
+        "height": "34",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 16.25.54.jpg",
+        "top": "407",
+        "left": "528",
+        "width": "35",
+        "height": "32",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 15.18.51.jpg",
+        "top": "493",
+        "left": "989",
+        "width": "38",
+        "height": "90",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 15.56.50.jpg",
+        "top": "423",
+        "left": "1686",
+        "width": "89",
+        "height": "114",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 16.15.24.jpg",
+        "top": "273",
+        "left": "1424",
+        "width": "82",
+        "height": "199",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 13.28.48.jpg",
+        "top": "369",
+        "left": "1478",
+        "width": "63",
+        "height": "121",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-25 16.05.21.jpg",
+        "top": "590",
+        "left": "1782",
+        "width": "29",
+        "height": "54",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-25 16.18.27.jpg",
+        "top": "537",
+        "left": "1438",
+        "width": "27",
+        "height": "48",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "03-29 12.01.09.jpg",
+        "top": "745",
+        "left": "387",
+        "width": "106",
+        "height": "109",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-29 12.19.42.jpg",
+        "top": "656",
+        "left": "96",
+        "width": "114",
+        "height": "122",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "03-29 12.13.20.jpg",
+        "top": "361",
+        "left": "1672",
+        "width": "98",
+        "height": "165",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "03-29 11.24.42.jpg",
+        "top": "592",
+        "left": "1553",
+        "width": "49",
+        "height": "94",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-29 12.20.58.jpg",
+        "top": "611",
+        "left": "1497",
+        "width": "141",
+        "height": "139",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "04-29 09.20.21.jpg",
+        "top": "508",
+        "left": "109",
+        "width": "125",
+        "height": "116",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-29 13.29.03.jpg",
+        "top": "583",
+        "left": "477",
+        "width": "83",
+        "height": "84",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-29 13.31.12.jpg",
+        "top": "612",
+        "left": "562",
+        "width": "48",
+        "height": "48",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-29 13.32.44.jpg",
+        "top": "528",
+        "left": "293",
+        "width": "82",
+        "height": "79",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-29 13.34.07.jpg",
+        "top": "656",
+        "left": "570",
+        "width": "41",
+        "height": "43",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-29 13.54.13.jpg",
+        "top": "663",
+        "left": "551",
+        "width": "57",
+        "height": "54",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-29 11.59.39.jpg",
+        "top": "364",
+        "left": "1406",
+        "width": "104",
+        "height": "175",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-29 13.27.31.jpg",
+        "top": "543",
+        "left": "1654",
+        "width": "44",
+        "height": "56",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-29 13.56.25.jpg",
+        "top": "313",
+        "left": "1420",
+        "width": "61",
+        "height": "135",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-01 12.06.47.jpg",
+        "top": "565",
+        "left": "1661",
+        "width": "97",
+        "height": "97",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-01 12.07.41.jpg",
+        "top": "575",
+        "left": "1764",
+        "width": "127",
+        "height": "117",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-01 12.28.20.jpg",
+        "top": "309",
+        "left": "1215",
+        "width": "74",
+        "height": "163",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "05-02 14.42.56.jpg",
+        "top": "629",
+        "left": "1594",
+        "width": "46",
+        "height": "49",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-02 14.44.06.jpg",
+        "top": "642",
+        "left": "1494",
+        "width": "42",
+        "height": "39",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-02 16.12.37.jpg",
+        "top": "505",
+        "left": "0",
+        "width": "99",
+        "height": "110",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-02 18.07.09.jpg",
+        "top": "534",
+        "left": "15",
+        "width": "79",
+        "height": "72",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-02 14.44.25.jpg",
+        "top": "81",
+        "left": "1773",
+        "width": "87",
+        "height": "164",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-03 12.29.23.jpg",
+        "top": "610",
+        "left": "1379",
+        "width": "82",
+        "height": "79",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "06-04 15.05.40.jpg",
+        "top": "593",
+        "left": "221",
+        "width": "65",
+        "height": "61",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "06-04 15.06.03.jpg",
+        "top": "583",
+        "left": "526",
+        "width": "61",
+        "height": "59",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "06-04 16.05.23.jpg",
+        "top": "642",
+        "left": "589",
+        "width": "26",
+        "height": "28",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "06-04 16.13.31.jpg",
+        "top": "601",
+        "left": "251",
+        "width": "41",
+        "height": "38",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "06-04 16.14.06.jpg",
+        "top": "593",
+        "left": "415",
+        "width": "41",
+        "height": "43",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "06-04 16.29.21.jpg",
+        "top": "572",
+        "left": "16",
+        "width": "54",
+        "height": "50",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "06-04 16.33.00.jpg",
+        "top": "601",
+        "left": "474",
+        "width": "52",
+        "height": "48",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "06-04 16.37.48.jpg",
+        "top": "566",
+        "left": "87",
+        "width": "54",
+        "height": "54",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "06-04 15.05.35.jpg",
+        "top": "389",
+        "left": "1173",
+        "width": "52",
+        "height": "113",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "06-04 16.07.21.jpg",
+        "top": "455",
+        "left": "1655",
+        "width": "47",
+        "height": "75",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "06-04 16.40.59.jpg",
+        "top": "407",
+        "left": "1319",
+        "width": "45",
+        "height": "105",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "06-05 17.37.08.jpg",
+        "top": "387",
+        "left": "1635",
+        "width": "123",
+        "height": "103",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "06-05 17.54.38.jpg",
+        "top": "557",
+        "left": "1426",
+        "width": "43",
+        "height": "48",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "06-07 10.19.51.jpg",
+        "top": "543",
+        "left": "553",
+        "width": "92",
+        "height": "94",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "06-07 10.22.08.jpg",
+        "top": "570",
+        "left": "475",
+        "width": "75",
+        "height": "70",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "06-07 14.12.09.jpg",
+        "top": "475",
+        "left": "1481",
+        "width": "94",
+        "height": "89",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "06-07 14.18.59.jpg",
+        "top": "498",
+        "left": "1640",
+        "width": "83",
+        "height": "90",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "06-07 14.24.26.jpg",
+        "top": "496",
+        "left": "1558",
+        "width": "103",
+        "height": "97",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "06-07 14.26.47.jpg",
+        "top": "462",
+        "left": "242",
+        "width": "134",
+        "height": "127",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "06-07 14.29.12.jpg",
+        "top": "606",
+        "left": "686",
+        "width": "62",
+        "height": "56",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "06-07 09.45.07.jpg",
+        "top": "472",
+        "left": "432",
+        "width": "57",
+        "height": "71",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-08 11.34.00.jpg",
+        "top": "316",
+        "left": "116",
+        "width": "191",
+        "height": "172",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-08 11.41.06.jpg",
+        "top": "603",
+        "left": "682",
+        "width": "77",
+        "height": "74",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-08 13.43.45.jpg",
+        "top": "633",
+        "left": "424",
+        "width": "54",
+        "height": "70",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "05-08 13.57.02.jpg",
+        "top": "425",
+        "left": "203",
+        "width": "113",
+        "height": "105",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-08 13.58.27.jpg",
+        "top": "545",
+        "left": "621",
+        "width": "70",
+        "height": "69",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-08 14.06.56.jpg",
+        "top": "614",
+        "left": "563",
+        "width": "66",
+        "height": "67",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-08 11.36.35.jpg",
+        "top": "215",
+        "left": "1260",
+        "width": "178",
+        "height": "231",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-08 14.01.25.jpg",
+        "top": "152",
+        "left": "1657",
+        "width": "139",
+        "height": "215",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-08 11.41.08.jpg",
+        "top": "646",
+        "left": "74",
+        "width": "74",
+        "height": "134",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "06-08 10.44.58.jpg",
+        "top": "607",
+        "left": "1303",
+        "width": "40",
+        "height": "40",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "05-09 09.26.44.jpg",
+        "top": "680",
+        "left": "834",
+        "width": "36",
+        "height": "33",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-09 09.31.53.jpg",
+        "top": "654",
+        "left": "679",
+        "width": "42",
+        "height": "42",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-09 10.52.39.jpg",
+        "top": "676",
+        "left": "587",
+        "width": "43",
+        "height": "41",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-09 12.27.15.jpg",
+        "top": "509",
+        "left": "231",
+        "width": "88",
+        "height": "89",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "05-09 12.41.59.jpg",
+        "top": "580",
+        "left": "356",
+        "width": "64",
+        "height": "63",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-09 12.48.39.jpg",
+        "top": "627",
+        "left": "709",
+        "width": "51",
+        "height": "50",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-09 08.07.07.jpg",
+        "top": "278",
+        "left": "1176",
+        "width": "77",
+        "height": "159",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "05-11 14.51.33.jpg",
+        "top": "562",
+        "left": "515",
+        "width": "61",
+        "height": "63",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-11 14.57.57.jpg",
+        "top": "502",
+        "left": "549",
+        "width": "77",
+        "height": "71",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-11 15.31.29.jpg",
+        "top": "525",
+        "left": "547",
+        "width": "80",
+        "height": "74",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-11 15.56.33.jpg",
+        "top": "555",
+        "left": "302",
+        "width": "102",
+        "height": "102",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-11 16.04.43.jpg",
+        "top": "536",
+        "left": "318",
+        "width": "98",
+        "height": "95",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-11 16.07.30.jpg",
+        "top": "622",
+        "left": "675",
+        "width": "58",
+        "height": "57",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-11 16.08.30.jpg",
+        "top": "636",
+        "left": "803",
+        "width": "61",
+        "height": "62",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "05-11 16.12.50.jpg",
+        "top": "560",
+        "left": "377",
+        "width": "79",
+        "height": "92",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-11 16.17.40.jpg",
+        "top": "535",
+        "left": "425",
+        "width": "92",
+        "height": "89",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-11 16.21.51.jpg",
+        "top": "668",
+        "left": "1025",
+        "width": "35",
+        "height": "35",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-11 14.50.00.jpg",
+        "top": "364",
+        "left": "1106",
+        "width": "33",
+        "height": "96",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "06-11 14.10.18.jpg",
+        "top": "569",
+        "left": "1709",
+        "width": "96",
+        "height": "93",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "06-11 14.12.24.jpg",
+        "top": "629",
+        "left": "1394",
+        "width": "41",
+        "height": "37",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "06-11 14.14.22.jpg",
+        "top": "599",
+        "left": "1307",
+        "width": "47",
+        "height": "46",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-12 12.00.05.jpg",
+        "top": "71",
+        "left": "1681",
+        "width": "176",
+        "height": "234",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-12 12.00.58.jpg",
+        "top": "-10",
+        "left": "1157",
+        "width": "99",
+        "height": "196",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-12 12.07.24.jpg",
+        "top": "280",
+        "left": "1724",
+        "width": "107",
+        "height": "141",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-19 11.45.56.jpg",
+        "top": "400",
+        "left": "317",
+        "width": "127",
+        "height": "118",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "05-19 13.43.50.jpg",
+        "top": "455",
+        "left": "700",
+        "width": "69",
+        "height": "74",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "05-19 13.45.38.jpg",
+        "top": "247",
+        "left": "96",
+        "width": "180",
+        "height": "160",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-19 16.57.21.jpg",
+        "top": "447",
+        "left": "254",
+        "width": "63",
+        "height": "63",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "05-19 17.56.40.jpg",
+        "top": "500",
+        "left": "404",
+        "width": "50",
+        "height": "48",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "05-19 18.02.20.jpg",
+        "top": "463",
+        "left": "471",
+        "width": "64",
+        "height": "65",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "05-19 17.59.05.jpg",
+        "top": "223",
+        "left": "1786",
+        "width": "136",
+        "height": "192",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "05-20 09.16.38.jpg",
+        "top": "429",
+        "left": "557",
+        "width": "110",
+        "height": "113",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "05-20 09.24.05.jpg",
+        "top": "515",
+        "left": "199",
+        "width": "48",
+        "height": "43",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-20 09.24.16.jpg",
+        "top": "433",
+        "left": "176",
+        "width": "74",
+        "height": "65",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "05-20 10.34.43.jpg",
+        "top": "475",
+        "left": "192",
+        "width": "95",
+        "height": "86",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "05-20 11.21.39.jpg",
+        "top": "440",
+        "left": "497",
+        "width": "80",
+        "height": "74",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-20 11.25.28.jpg",
+        "top": "500",
+        "left": "424",
+        "width": "52",
+        "height": "55",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "05-20 11.26.15.jpg",
+        "top": "516",
+        "left": "568",
+        "width": "43",
+        "height": "48",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "05-20 12.40.49.jpg",
+        "top": "341",
+        "left": "4",
+        "width": "150",
+        "height": "171",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-20 12.56.23.jpg",
+        "top": "474",
+        "left": "301",
+        "width": "73",
+        "height": "78",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "05-20 08.48.06.jpg",
+        "top": "354",
+        "left": "1211",
+        "width": "67",
+        "height": "136",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "05-20 13.34.23.jpg",
+        "top": "597",
+        "left": "6",
+        "width": "61",
+        "height": "106",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "05-27 14.32.00.jpg",
+        "top": "386",
+        "left": "1210",
+        "width": "65",
+        "height": "105",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "05-28 09.59.59.jpg",
+        "top": "452",
+        "left": "420",
+        "width": "86",
+        "height": "84",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "05-28 10.02.48.jpg",
+        "top": "461",
+        "left": "161",
+        "width": "66",
+        "height": "70",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "05-28 10.41.18.jpg",
+        "top": "556",
+        "left": "499",
+        "width": "38",
+        "height": "38",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "05-28 10.47.03.jpg",
+        "top": "583",
+        "left": "358",
+        "width": "48",
+        "height": "43",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "05-28 13.14.38.jpg",
+        "top": "586",
+        "left": "510",
+        "width": "40",
+        "height": "42",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "05-28 13.21.45.jpg",
+        "top": "520",
+        "left": "266",
+        "width": "59",
+        "height": "49",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "05-28 13.28.05.jpg",
+        "top": "460",
+        "left": "216",
+        "width": "96",
+        "height": "83",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "05-28 13.27.21.jpg",
+        "top": "279",
+        "left": "1242",
+        "width": "68",
+        "height": "112",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "05-28 11.21.13.jpg",
+        "top": "510",
+        "left": "993",
+        "width": "32",
+        "height": "81",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "02-13 13.26.15.jpg",
+        "top": "349",
+        "left": "271",
+        "width": "31",
+        "height": "31",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "02-13 14.16.03.jpg",
+        "top": "355",
+        "left": "668",
+        "width": "29",
+        "height": "28",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "08-08 14.42.20.jpg",
+        "top": "304",
+        "left": "920",
+        "width": "35",
+        "height": "35",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-08 15.45.17.jpg",
+        "top": "189",
+        "left": "688",
+        "width": "15",
+        "height": "48",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "08-09 11.15.21.jpg",
+        "top": "212",
+        "left": "80",
+        "width": "28",
+        "height": "40",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-10 17.05.46.jpg",
+        "top": "348",
+        "left": "387",
+        "width": "26",
+        "height": "25",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-10 16.33.50.jpg",
+        "top": "167",
+        "left": "1051",
+        "width": "54",
+        "height": "94",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-10 16.27.23.jpg",
+        "top": "262",
+        "left": "697",
+        "width": "25",
+        "height": "43",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-11 14.01.58.jpg",
+        "top": "343",
+        "left": "973",
+        "width": "58",
+        "height": "58",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-11 14.18.32.jpg",
+        "top": "79",
+        "left": "1056",
+        "width": "67",
+        "height": "121",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-12 08.30.34.jpg",
+        "top": "291",
+        "left": "172",
+        "width": "65",
+        "height": "61",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-12 08.32.20.jpg",
+        "top": "342",
+        "left": "324",
+        "width": "47",
+        "height": "44",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-12 09.05.20.jpg",
+        "top": "266",
+        "left": "108",
+        "width": "71",
+        "height": "75",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-12 09.05.57.jpg",
+        "top": "312",
+        "left": "167",
+        "width": "40",
+        "height": "56",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-12 09.06.38.jpg",
+        "top": "229",
+        "left": "-13",
+        "width": "56",
+        "height": "94",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-12 09.43.18.jpg",
+        "top": "280",
+        "left": "224",
+        "width": "74",
+        "height": "76",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-12 09.45.25.jpg",
+        "top": "376",
+        "left": "425",
+        "width": "39",
+        "height": "38",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-12 09.45.43.jpg",
+        "top": "341",
+        "left": "352",
+        "width": "59",
+        "height": "54",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-12 09.47.17.jpg",
+        "top": "255",
+        "left": "35",
+        "width": "69",
+        "height": "72",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-12 10.02.22.jpg",
+        "top": "274",
+        "left": "69",
+        "width": "64",
+        "height": "64",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-12 10.47.58.jpg",
+        "top": "281",
+        "left": "166",
+        "width": "58",
+        "height": "56",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-12 09.34.28.jpg",
+        "top": "126",
+        "left": "978",
+        "width": "43",
+        "height": "133",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-12 09.46.57.jpg",
+        "top": "128",
+        "left": "1163",
+        "width": "60",
+        "height": "100",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-13 11.28.25.jpg",
+        "top": "389",
+        "left": "1006",
+        "width": "44",
+        "height": "45",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "08-13 15.55.44.jpg",
+        "top": "397",
+        "left": "410",
+        "width": "20",
+        "height": "19",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "08-13 16.06.02.jpg",
+        "top": "394",
+        "left": "319",
+        "width": "23",
+        "height": "25",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-13 16.22.32.jpg",
+        "top": "372",
+        "left": "246",
+        "width": "26",
+        "height": "28",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "08-13 16.29.52.jpg",
+        "top": "377",
+        "left": "314",
+        "width": "33",
+        "height": "31",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "08-13 16.35.14.jpg",
+        "top": "303",
+        "left": "53",
+        "width": "60",
+        "height": "53",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "08-13 16.38.11.jpg",
+        "top": "400",
+        "left": "418",
+        "width": "27",
+        "height": "24",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "08-13 16.45.45.jpg",
+        "top": "367",
+        "left": "181",
+        "width": "34",
+        "height": "35",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "08-13 16.55.56.jpg",
+        "top": "399",
+        "left": "361",
+        "width": "21",
+        "height": "20",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "08-13 16.58.26.jpg",
+        "top": "319",
+        "left": "91",
+        "width": "45",
+        "height": "47",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "08-16 10.34.40.jpg",
+        "top": "353",
+        "left": "1001",
+        "width": "59",
+        "height": "62",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-16 11.21.51.jpg",
+        "top": "389",
+        "left": "985",
+        "width": "44",
+        "height": "42",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-16 12.05.45.jpg",
+        "top": "314",
+        "left": "1116",
+        "width": "51",
+        "height": "47",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-16 13.22.37.jpg",
+        "top": "260",
+        "left": "1069",
+        "width": "93",
+        "height": "86",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-16 09.56.21.jpg",
+        "top": "169",
+        "left": "383",
+        "width": "19",
+        "height": "63",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-16 12.00.58.jpg",
+        "top": "-3",
+        "left": "884",
+        "width": "74",
+        "height": "116",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-17 11.14.39.jpg",
+        "top": "309",
+        "left": "115",
+        "width": "48",
+        "height": "48",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-17 12.40.03.jpg",
+        "top": "382",
+        "left": "495",
+        "width": "55",
+        "height": "65",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-17 13.13.17.jpg",
+        "top": "374",
+        "left": "334",
+        "width": "43",
+        "height": "41",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-17 13.15.27.jpg",
+        "top": "382",
+        "left": "323",
+        "width": "35",
+        "height": "34",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-18 13.50.28.jpg",
+        "top": "291",
+        "left": "18",
+        "width": "87",
+        "height": "89",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-18 14.20.57.jpg",
+        "top": "389",
+        "left": "403",
+        "width": "44",
+        "height": "45",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-19 13.03.05.jpg",
+        "top": "362",
+        "left": "85",
+        "width": "60",
+        "height": "67",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-20 10.31.56.jpg",
+        "top": "322",
+        "left": "811",
+        "width": "106",
+        "height": "113",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-20 10.33.52.jpg",
+        "top": "323",
+        "left": "870",
+        "width": "48",
+        "height": "49",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-20 10.44.10.jpg",
+        "top": "214",
+        "left": "900",
+        "width": "72",
+        "height": "112",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-20 10.45.53.jpg",
+        "top": "189",
+        "left": "996",
+        "width": "133",
+        "height": "135",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-22 11.30.07.jpg",
+        "top": "427",
+        "left": "321",
+        "width": "46",
+        "height": "46",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-22 11.39.53.jpg",
+        "top": "438",
+        "left": "1008",
+        "width": "56",
+        "height": "52",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-22 11.47.47.jpg",
+        "top": "405",
+        "left": "69",
+        "width": "62",
+        "height": "63",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-22 11.50.21.jpg",
+        "top": "406",
+        "left": "123",
+        "width": "66",
+        "height": "60",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-22 11.27.22.jpg",
+        "top": "283",
+        "left": "869",
+        "width": "54",
+        "height": "105",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-23 10.54.43.jpg",
+        "top": "438",
+        "left": "389",
+        "width": "47",
+        "height": "45",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-23 16.56.33.jpg",
+        "top": "316",
+        "left": "1169",
+        "width": "51",
+        "height": "47",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-23 17.12.10.jpg",
+        "top": "380",
+        "left": "135",
+        "width": "58",
+        "height": "54",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-25 11.04.25.jpg",
+        "top": "430",
+        "left": "443",
+        "width": "32",
+        "height": "31",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-25 11.43.15.jpg",
+        "top": "398",
+        "left": "1034",
+        "width": "50",
+        "height": "47",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-25 11.43.19.jpg",
+        "top": "421",
+        "left": "1036",
+        "width": "37",
+        "height": "30",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-25 15.14.18.jpg",
+        "top": "277",
+        "left": "153",
+        "width": "85",
+        "height": "83",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-25 17.01.32.jpg",
+        "top": "412",
+        "left": "415",
+        "width": "52",
+        "height": "50",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-25 17.54.02.jpg",
+        "top": "362",
+        "left": "275",
+        "width": "60",
+        "height": "60",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-26 12.47.14.jpg",
+        "top": "421",
+        "left": "358",
+        "width": "35",
+        "height": "38",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-26 13.37.03.jpg",
+        "top": "391",
+        "left": "145",
+        "width": "36",
+        "height": "42",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-26 14.49.26.jpg",
+        "top": "388",
+        "left": "119",
+        "width": "45",
+        "height": "48",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-26 17.32.09.jpg",
+        "top": "359",
+        "left": "72",
+        "width": "47",
+        "height": "47",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-26 17.33.42.jpg",
+        "top": "419",
+        "left": "382",
+        "width": "41",
+        "height": "40",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-26 13.23.39.jpg",
+        "top": "49",
+        "left": "1113",
+        "width": "121",
+        "height": "173",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-26 13.33.54.jpg",
+        "top": "122",
+        "left": "899",
+        "width": "47",
+        "height": "112",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-26 17.51.32.jpg",
+        "top": "134",
+        "left": "1183",
+        "width": "92",
+        "height": "137",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-26 17.14.00.jpg",
+        "top": "116",
+        "left": "173",
+        "width": "61",
+        "height": "72",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-27 10.54.40.jpg",
+        "top": "340",
+        "left": "969",
+        "width": "59",
+        "height": "58",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-27 10.54.59.jpg",
+        "top": "335",
+        "left": "901",
+        "width": "52",
+        "height": "54",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-27 10.55.08.jpg",
+        "top": "352",
+        "left": "901",
+        "width": "58",
+        "height": "58",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-27 10.55.15.jpg",
+        "top": "223",
+        "left": "1062",
+        "width": "93",
+        "height": "88",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-27 12.26.19.jpg",
+        "top": "384",
+        "left": "897",
+        "width": "41",
+        "height": "42",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-27 12.26.45.jpg",
+        "top": "336",
+        "left": "1160",
+        "width": "55",
+        "height": "55",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-27 12.28.38.jpg",
+        "top": "385",
+        "left": "932",
+        "width": "41",
+        "height": "42",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-27 12.43.40.jpg",
+        "top": "397",
+        "left": "404",
+        "width": "46",
+        "height": "46",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-27 12.48.30.jpg",
+        "top": "418",
+        "left": "1025",
+        "width": "53",
+        "height": "53",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "08-30 10.41.06.jpg",
+        "top": "471",
+        "left": "478",
+        "width": "26",
+        "height": "23",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "08-30 10.46.06.jpg",
+        "top": "445",
+        "left": "307",
+        "width": "38",
+        "height": "39",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "08-31 13.41.46.jpg",
+        "top": "459",
+        "left": "447",
+        "width": "17",
+        "height": "18",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-31 13.44.05.jpg",
+        "top": "449",
+        "left": "381",
+        "width": "19",
+        "height": "16",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "08-31 13.46.15.jpg",
+        "top": "371",
+        "left": "126",
+        "width": "61",
+        "height": "50",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "08-31 13.51.16.jpg",
+        "top": "375",
+        "left": "157",
+        "width": "43",
+        "height": "41",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "02-07 05.20.19.jpg",
+        "top": "252",
+        "left": "125",
+        "width": "69",
+        "height": "68",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "02-19 10.55.41.jpg",
+        "top": "339",
+        "left": "841",
+        "width": "55",
+        "height": "53",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-19 10.55.48.jpg",
+        "top": "325",
+        "left": "847",
+        "width": "61",
+        "height": "60",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "04-04 12.11.52.jpg",
+        "top": "325",
+        "left": "687",
+        "width": "46",
+        "height": "44",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "04-04 12.40.30.jpg",
+        "top": "361",
+        "left": "992",
+        "width": "31",
+        "height": "28",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "04-04 12.46.06.jpg",
+        "top": "378",
+        "left": "806",
+        "width": "13",
+        "height": "48",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "04-05 03.31.03.jpg",
+        "top": "354",
+        "left": "898",
+        "width": "28",
+        "height": "27",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "04-17 01.40.44.jpg",
+        "top": "367",
+        "left": "929",
+        "width": "43",
+        "height": "42",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-17 05.00.20.jpg",
+        "top": "141",
+        "left": "700",
+        "width": "73",
+        "height": "55",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "04-17 05.02.40.jpg",
+        "top": "63",
+        "left": "932",
+        "width": "61",
+        "height": "54",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "04-17 05.04.56.jpg",
+        "top": "315",
+        "left": "71",
+        "width": "77",
+        "height": "70",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "04-17 05.29.12.jpg",
+        "top": "362",
+        "left": "1193",
+        "width": "27",
+        "height": "32",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-17 05.30.55.jpg",
+        "top": "183",
+        "left": "950",
+        "width": "92",
+        "height": "83",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-17 05.31.31.jpg",
+        "top": "392",
+        "left": "780",
+        "width": "33",
+        "height": "33",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-17 05.36.02.jpg",
+        "top": "351",
+        "left": "43",
+        "width": "33",
+        "height": "33",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-17 05.39.00.jpg",
+        "top": "295",
+        "left": "761",
+        "width": "50",
+        "height": "51",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-17 05.44.17.jpg",
+        "top": "276",
+        "left": "127",
+        "width": "69",
+        "height": "65",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "04-24 04.20.38.jpg",
+        "top": "143",
+        "left": "762",
+        "width": "43",
+        "height": "47",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-04 10.34.28.jpg",
+        "top": "232",
+        "left": "1225",
+        "width": "59",
+        "height": "67",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-04 10.47.36.jpg",
+        "top": "264",
+        "left": "1115",
+        "width": "68",
+        "height": "60",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-04 11.00.46.jpg",
+        "top": "466",
+        "left": "137",
+        "width": "33",
+        "height": "33",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-04 11.04.41.jpg",
+        "top": "401",
+        "left": "21",
+        "width": "48",
+        "height": "54",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-04 11.15.23.jpg",
+        "top": "247",
+        "left": "812",
+        "width": "28",
+        "height": "63",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-04 11.22.28.jpg",
+        "top": "393",
+        "left": "1089",
+        "width": "28",
+        "height": "48",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-04 10.36.14.jpg",
+        "top": "351",
+        "left": "666",
+        "width": "23",
+        "height": "60",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-06 12.18.30.jpg",
+        "top": "543",
+        "left": "206",
+        "width": "36",
+        "height": "37",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-06 12.43.56.jpg",
+        "top": "558",
+        "left": "193",
+        "width": "37",
+        "height": "63",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-07 03.56.52.jpg",
+        "top": "197",
+        "left": "1109",
+        "width": "88",
+        "height": "113",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-07 04.04.12.jpg",
+        "top": "85",
+        "left": "287",
+        "width": "90",
+        "height": "95",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "02-15 12.11.47.jpg",
+        "top": "108",
+        "left": "61",
+        "width": "118",
+        "height": "102",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "02-15 12.12.14.jpg",
+        "top": "237",
+        "left": "1109",
+        "width": "70",
+        "height": "61",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "02-15 12.12.44.jpg",
+        "top": "279",
+        "left": "305",
+        "width": "57",
+        "height": "58",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "02-15 12.14.39.jpg",
+        "top": "340",
+        "left": "957",
+        "width": "46",
+        "height": "42",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-01 09.55.18.jpg",
+        "top": "349",
+        "left": "362",
+        "width": "44",
+        "height": "41",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-01 09.56.37.jpg",
+        "top": "344",
+        "left": "353",
+        "width": "42",
+        "height": "40",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-01 10.00.48.jpg",
+        "top": "388",
+        "left": "324",
+        "width": "35",
+        "height": "33",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-01 10.01.26.jpg",
+        "top": "386",
+        "left": "373",
+        "width": "30",
+        "height": "28",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-01 10.02.30.jpg",
+        "top": "400",
+        "left": "456",
+        "width": "21",
+        "height": "19",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-01 10.12.28.jpg",
+        "top": "392",
+        "left": "487",
+        "width": "29",
+        "height": "25",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-01 10.02.57.jpg",
+        "top": "197",
+        "left": "956",
+        "width": "59",
+        "height": "98",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-02 03.01.17.jpg",
+        "top": "301",
+        "left": "164",
+        "width": "45",
+        "height": "40",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "03-02 03.04.05.jpg",
+        "top": "276",
+        "left": "123",
+        "width": "62",
+        "height": "51",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "03-02 04.05.46.jpg",
+        "top": "397",
+        "left": "368",
+        "width": "23",
+        "height": "19",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "03-02 04.11.27.jpg",
+        "top": "276",
+        "left": "160",
+        "width": "62",
+        "height": "57",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "03-02 04.44.41.jpg",
+        "top": "300",
+        "left": "212",
+        "width": "54",
+        "height": "47",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "03-02 04.49.36.jpg",
+        "top": "354",
+        "left": "283",
+        "width": "36",
+        "height": "36",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "03-02 04.52.24.jpg",
+        "top": "325",
+        "left": "234",
+        "width": "40",
+        "height": "41",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "03-02 04.56.09.jpg",
+        "top": "368",
+        "left": "145",
+        "width": "39",
+        "height": "35",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-02 04.58.38.jpg",
+        "top": "331",
+        "left": "302",
+        "width": "33",
+        "height": "32",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "03-02 04.59.29.jpg",
+        "top": "340",
+        "left": "76",
+        "width": "45",
+        "height": "38",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "03-02 05.47.25.jpg",
+        "top": "395",
+        "left": "332",
+        "width": "23",
+        "height": "22",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-02 01.13.30.jpg",
+        "top": "217",
+        "left": "1146",
+        "width": "46",
+        "height": "61",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "03-03 01.21.30.jpg",
+        "top": "218",
+        "left": "25",
+        "width": "62",
+        "height": "58",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-03 09.43.21.jpg",
+        "top": "277",
+        "left": "459",
+        "width": "28",
+        "height": "26",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-03 09.43.30.jpg",
+        "top": "277",
+        "left": "292",
+        "width": "34",
+        "height": "29",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "03-03 11.22.57.jpg",
+        "top": "273",
+        "left": "38",
+        "width": "48",
+        "height": "43",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "03-03 11.23.16.jpg",
+        "top": "271",
+        "left": "21",
+        "width": "52",
+        "height": "44",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "03-03 11.29.02.jpg",
+        "top": "187",
+        "left": "851",
+        "width": "47",
+        "height": "44",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-03 11.37.32.jpg",
+        "top": "293",
+        "left": "391",
+        "width": "20",
+        "height": "18",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-05 01.12.26.jpg",
+        "top": "300",
+        "left": "368",
+        "width": "49",
+        "height": "46",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "03-05 02.27.40.jpg",
+        "top": "325",
+        "left": "385",
+        "width": "29",
+        "height": "29",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "03-06 03.14.18.jpg",
+        "top": "205",
+        "left": "1",
+        "width": "92",
+        "height": "109",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-06 10.32.23.jpg",
+        "top": "265",
+        "left": "146",
+        "width": "82",
+        "height": "68",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-06 10.42.49.jpg",
+        "top": "314",
+        "left": "142",
+        "width": "57",
+        "height": "53",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-06 10.54.44.jpg",
+        "top": "275",
+        "left": "196",
+        "width": "60",
+        "height": "50",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-06 10.41.29.jpg",
+        "top": "138",
+        "left": "1152",
+        "width": "56",
+        "height": "104",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-07 02.42.09.jpg",
+        "top": "293",
+        "left": "332",
+        "width": "59",
+        "height": "55",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-08 01.14.55.jpg",
+        "top": "240",
+        "left": "467",
+        "width": "87",
+        "height": "83",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-08 04.10.36.jpg",
+        "top": "188",
+        "left": "75",
+        "width": "150",
+        "height": "139",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-08 11.41.27.jpg",
+        "top": "338",
+        "left": "307",
+        "width": "55",
+        "height": "54",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-08 01.47.53.jpg",
+        "top": "117",
+        "left": "826",
+        "width": "43",
+        "height": "106",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-09 01.46.39.jpg",
+        "top": "357",
+        "left": "872",
+        "width": "30",
+        "height": "31",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-09 11.47.13.jpg",
+        "top": "288",
+        "left": "156",
+        "width": "64",
+        "height": "59",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-09 04.19.13.jpg",
+        "top": "257",
+        "left": "-5",
+        "width": "112",
+        "height": "100",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-10 03.15.59.jpg",
+        "top": "312",
+        "left": "360",
+        "width": "36",
+        "height": "36",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "03-10 03.24.52.jpg",
+        "top": "336",
+        "left": "375",
+        "width": "35",
+        "height": "34",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "03-10 03.25.29.jpg",
+        "top": "359",
+        "left": "427",
+        "width": "26",
+        "height": "27",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "03-10 03.27.27.jpg",
+        "top": "296",
+        "left": "283",
+        "width": "50",
+        "height": "50",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "03-10 10.20.17.jpg",
+        "top": "304",
+        "left": "361",
+        "width": "56",
+        "height": "52",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-11 11.26.16.jpg",
+        "top": "321",
+        "left": "226",
+        "width": "55",
+        "height": "52",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "03-11 11.33.03.jpg",
+        "top": "253",
+        "left": "445",
+        "width": "67",
+        "height": "62",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-11 11.35.48.jpg",
+        "top": "385",
+        "left": "70",
+        "width": "45",
+        "height": "39",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "01-14 02.49.18.jpg",
+        "top": "252",
+        "left": "98",
+        "width": "58",
+        "height": "56",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-14 04.30.02.jpg",
+        "top": "33",
+        "left": "-2",
+        "width": "108",
+        "height": "113",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "03-15 02.27.33.jpg",
+        "top": "228",
+        "left": "763",
+        "width": "62",
+        "height": "60",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-15 03.10.05.jpg",
+        "top": "289",
+        "left": "232",
+        "width": "35",
+        "height": "35",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "03-15 03.30.19.jpg",
+        "top": "298",
+        "left": "283",
+        "width": "32",
+        "height": "35",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-15 04.05.03.jpg",
+        "top": "282",
+        "left": "351",
+        "width": "37",
+        "height": "38",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "03-15 04.16.11.jpg",
+        "top": "248",
+        "left": "206",
+        "width": "58",
+        "height": "59",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "03-15 06.09.38.jpg",
+        "top": "294",
+        "left": "105",
+        "width": "47",
+        "height": "40",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-15 12.24.17.jpg",
+        "top": "246",
+        "left": "20",
+        "width": "48",
+        "height": "57",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "03-15 12.54.56.jpg",
+        "top": "280",
+        "left": "305",
+        "width": "35",
+        "height": "36",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-15 12.59.54.jpg",
+        "top": "251",
+        "left": "191",
+        "width": "53",
+        "height": "51",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "03-15 02.15.16.jpg",
+        "top": "195",
+        "left": "1191",
+        "width": "50",
+        "height": "99",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-16 03.43.48.jpg",
+        "top": "295",
+        "left": "104",
+        "width": "42",
+        "height": "38",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "01-16 03.49.26.jpg",
+        "top": "290",
+        "left": "323",
+        "width": "44",
+        "height": "42",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "01-16 03.52.13.jpg",
+        "top": "291",
+        "left": "178",
+        "width": "45",
+        "height": "42",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-16 04.01.36.jpg",
+        "top": "341",
+        "left": "435",
+        "width": "20",
+        "height": "20",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-16 04.06.57.jpg",
+        "top": "326",
+        "left": "334",
+        "width": "26",
+        "height": "25",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "03-16 04.36.51.jpg",
+        "top": "386",
+        "left": "100",
+        "width": "65",
+        "height": "53",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 01.22.09.jpg",
+        "top": "388",
+        "left": "344",
+        "width": "27",
+        "height": "25",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 02.16.15.jpg",
+        "top": "398",
+        "left": "264",
+        "width": "46",
+        "height": "41",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-17 02.28.46.jpg",
+        "top": "330",
+        "left": "220",
+        "width": "37",
+        "height": "43",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 02.43.17.jpg",
+        "top": "411",
+        "left": "273",
+        "width": "38",
+        "height": "34",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 02.45.19.jpg",
+        "top": "372",
+        "left": "398",
+        "width": "29",
+        "height": "32",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 02.46.31.jpg",
+        "top": "407",
+        "left": "255",
+        "width": "35",
+        "height": "32",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "03-17 03.07.40.jpg",
+        "top": "303",
+        "left": "68",
+        "width": "76",
+        "height": "67",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 03.24.24.jpg",
+        "top": "289",
+        "left": "163",
+        "width": "63",
+        "height": "59",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 04.08.44.jpg",
+        "top": "356",
+        "left": "391",
+        "width": "38",
+        "height": "38",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 11.34.31.jpg",
+        "top": "415",
+        "left": "286",
+        "width": "28",
+        "height": "32",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 11.38.08.jpg",
+        "top": "386",
+        "left": "282",
+        "width": "45",
+        "height": "43",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 11.48.45.jpg",
+        "top": "378",
+        "left": "260",
+        "width": "45",
+        "height": "38",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 11.51.45.jpg",
+        "top": "357",
+        "left": "94",
+        "width": "63",
+        "height": "66",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 12.26.02.jpg",
+        "top": "361",
+        "left": "234",
+        "width": "36",
+        "height": "33",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 12.26.21.jpg",
+        "top": "349",
+        "left": "248",
+        "width": "30",
+        "height": "31",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 12.27.13.jpg",
+        "top": "373",
+        "left": "324",
+        "width": "25",
+        "height": "25",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 12.28.19.jpg",
+        "top": "318",
+        "left": "135",
+        "width": "63",
+        "height": "58",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 12.28.47.jpg",
+        "top": "329",
+        "left": "298",
+        "width": "40",
+        "height": "36",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 12.28.57.jpg",
+        "top": "334",
+        "left": "165",
+        "width": "49",
+        "height": "40",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 12.29.07.jpg",
+        "top": "358",
+        "left": "295",
+        "width": "29",
+        "height": "26",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "03-17 12.35.34.jpg",
+        "top": "375",
+        "left": "326",
+        "width": "44",
+        "height": "43",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-18 01.15.08.jpg",
+        "top": "284",
+        "left": "888",
+        "width": "36",
+        "height": "36",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "01-18 12.39.56.jpg",
+        "top": "360",
+        "left": "453",
+        "width": "22",
+        "height": "22",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "02-19 01.36.42.jpg",
+        "top": "187",
+        "left": "163",
+        "width": "90",
+        "height": "88",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "02-19 02.03.41.jpg",
+        "top": "300",
+        "left": "182",
+        "width": "42",
+        "height": "42",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "02-19 01.41.51.jpg",
+        "top": "403",
+        "left": "1066",
+        "width": "50",
+        "height": "88",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-20 01.00.30.jpg",
+        "top": "317",
+        "left": "357",
+        "width": "27",
+        "height": "27",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-20 01.01.49.jpg",
+        "top": "366",
+        "left": "446",
+        "width": "23",
+        "height": "22",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-20 01.04.03.jpg",
+        "top": "280",
+        "left": "253",
+        "width": "46",
+        "height": "42",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-20 01.39.25.jpg",
+        "top": "275",
+        "left": "284",
+        "width": "51",
+        "height": "51",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-20 02.03.42.jpg",
+        "top": "132",
+        "left": "0",
+        "width": "72",
+        "height": "94",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-20 01.06.19.jpg",
+        "top": "96",
+        "left": "1095",
+        "width": "98",
+        "height": "128",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-20 03.53.51.jpg",
+        "top": "117",
+        "left": "1040",
+        "width": "170",
+        "height": "151",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-20 01.25.33.jpg",
+        "top": "280",
+        "left": "824",
+        "width": "47",
+        "height": "84",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "01-20 02.03.32.jpg",
+        "top": "254",
+        "left": "1070",
+        "width": "57",
+        "height": "92",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-20 02.04.10.jpg",
+        "top": "201",
+        "left": "1074",
+        "width": "84",
+        "height": "128",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-20 02.10.58.jpg",
+        "top": "132",
+        "left": "1161",
+        "width": "124",
+        "height": "160",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-20 04.00.18.jpg",
+        "top": "176",
+        "left": "143",
+        "width": "79",
+        "height": "109",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "02-20 01.32.05.jpg",
+        "top": "312",
+        "left": "448",
+        "width": "28",
+        "height": "26",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "02-20 01.39.48.jpg",
+        "top": "206",
+        "left": "-2",
+        "width": "83",
+        "height": "88",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "02-20 01.50.53.jpg",
+        "top": "331",
+        "left": "385",
+        "width": "26",
+        "height": "26",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "02-20 02.14.57.jpg",
+        "top": "249",
+        "left": "60",
+        "width": "98",
+        "height": "90",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-20 02.58.18.jpg",
+        "top": "331",
+        "left": "274",
+        "width": "46",
+        "height": "43",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-20 09.49.17.jpg",
+        "top": "306",
+        "left": "440",
+        "width": "26",
+        "height": "21",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-20 09.57.16.jpg",
+        "top": "291",
+        "left": "234",
+        "width": "61",
+        "height": "56",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-20 09.58.43.jpg",
+        "top": "304",
+        "left": "469",
+        "width": "22",
+        "height": "23",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "02-20 10.02.46.jpg",
+        "top": "256",
+        "left": "18",
+        "width": "85",
+        "height": "81",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-20 02.21.43.jpg",
+        "top": "-4",
+        "left": "944",
+        "width": "174",
+        "height": "244",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-20 01.51.59.jpg",
+        "top": "147",
+        "left": "1065",
+        "width": "91",
+        "height": "121",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "02-20 03.10.44.jpg",
+        "top": "267",
+        "left": "951",
+        "width": "63",
+        "height": "116",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-21 04.16.30.jpg",
+        "top": "232",
+        "left": "93",
+        "width": "45",
+        "height": "43",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "01-21 04.20.48.jpg",
+        "top": "305",
+        "left": "842",
+        "width": "41",
+        "height": "42",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-21 04.21.05.jpg",
+        "top": "365",
+        "left": "897",
+        "width": "22",
+        "height": "27",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-21 04.22.18.jpg",
+        "top": "289",
+        "left": "856",
+        "width": "55",
+        "height": "56",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-21 09.55.16.jpg",
+        "top": "333",
+        "left": "449",
+        "width": "23",
+        "height": "18",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-21 10.03.22.jpg",
+        "top": "314",
+        "left": "273",
+        "width": "29",
+        "height": "26",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-21 10.22.57.jpg",
+        "top": "319",
+        "left": "393",
+        "width": "23",
+        "height": "22",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "02-21 02.24.38.jpg",
+        "top": "348",
+        "left": "207",
+        "width": "47",
+        "height": "45",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "02-21 02.31.06.jpg",
+        "top": "346",
+        "left": "399",
+        "width": "34",
+        "height": "31",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "02-21 04.23.53.jpg",
+        "top": "347",
+        "left": "196",
+        "width": "24",
+        "height": "21",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-22 01.08.57.jpg",
+        "top": "347",
+        "left": "408",
+        "width": "33",
+        "height": "31",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-22 01.09.09.jpg",
+        "top": "223",
+        "left": "-3",
+        "width": "89",
+        "height": "91",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-22 01.09.16.jpg",
+        "top": "245",
+        "left": "28",
+        "width": "62",
+        "height": "64",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-22 01.09.48.jpg",
+        "top": "264",
+        "left": "204",
+        "width": "64",
+        "height": "60",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-22 01.10.16.jpg",
+        "top": "318",
+        "left": "245",
+        "width": "38",
+        "height": "36",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-22 03.25.24.jpg",
+        "top": "241",
+        "left": "36",
+        "width": "61",
+        "height": "56",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "01-22 04.34.20.jpg",
+        "top": "317",
+        "left": "298",
+        "width": "27",
+        "height": "25",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-22 05.24.40.jpg",
+        "top": "312",
+        "left": "352",
+        "width": "44",
+        "height": "41",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-22 05.25.01.jpg",
+        "top": "341",
+        "left": "419",
+        "width": "27",
+        "height": "24",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-22 10.10.56.jpg",
+        "top": "331",
+        "left": "92",
+        "width": "32",
+        "height": "27",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-22 10.31.42.jpg",
+        "top": "332",
+        "left": "145",
+        "width": "31",
+        "height": "29",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "01-22 10.35.11.jpg",
+        "top": "286",
+        "left": "110",
+        "width": "43",
+        "height": "49",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "01-22 10.36.09.jpg",
+        "top": "376",
+        "left": "434",
+        "width": "19",
+        "height": "20",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-22 10.38.35.jpg",
+        "top": "336",
+        "left": "196",
+        "width": "28",
+        "height": "22",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-22 10.38.44.jpg",
+        "top": "338",
+        "left": "248",
+        "width": "28",
+        "height": "30",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "01-22 10.40.27.jpg",
+        "top": "315",
+        "left": "235",
+        "width": "46",
+        "height": "46",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-22 11.00.52.jpg",
+        "top": "342",
+        "left": "382",
+        "width": "33",
+        "height": "31",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-22 11.24.30.jpg",
+        "top": "321",
+        "left": "93",
+        "width": "35",
+        "height": "33",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "01-22 11.33.26.jpg",
+        "top": "351",
+        "left": "378",
+        "width": "30",
+        "height": "29",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "01-22 11.34.59.jpg",
+        "top": "355",
+        "left": "433",
+        "width": "32",
+        "height": "31",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-22 12.11.49.jpg",
+        "top": "355",
+        "left": "379",
+        "width": "30",
+        "height": "30",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-22 01.09.43.jpg",
+        "top": "233",
+        "left": "889",
+        "width": "53",
+        "height": "92",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-22 01.27.42.jpg",
+        "top": "154",
+        "left": "1029",
+        "width": "72",
+        "height": "104",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "01-22 03.25.01.jpg",
+        "top": "271",
+        "left": "892",
+        "width": "83",
+        "height": "108",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "01-22 05.25.01.jpg",
+        "top": "283",
+        "left": "947",
+        "width": "69",
+        "height": "89",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-22 05.18.52.jpg",
+        "top": "376",
+        "left": "149",
+        "width": "27",
+        "height": "24",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-22 05.39.45.jpg",
+        "top": "341",
+        "left": "278",
+        "width": "36",
+        "height": "34",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "01-23 10.56.24.jpg",
+        "top": "345",
+        "left": "323",
+        "width": "29",
+        "height": "33",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-24 01.08.35.jpg",
+        "top": "266",
+        "left": "-1",
+        "width": "41",
+        "height": "45",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-24 01.35.10.jpg",
+        "top": "319",
+        "left": "252",
+        "width": "49",
+        "height": "48",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-24 04.45.32.jpg",
+        "top": "322",
+        "left": "320",
+        "width": "33",
+        "height": "34",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-24 12.58.04.jpg",
+        "top": "308",
+        "left": "129",
+        "width": "43",
+        "height": "42",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "02-24 02.20.48.jpg",
+        "top": "415",
+        "left": "337",
+        "width": "30",
+        "height": "36",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "02-24 02.22.11.jpg",
+        "top": "385",
+        "left": "103",
+        "width": "42",
+        "height": "39",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-24 02.23.39.jpg",
+        "top": "394",
+        "left": "205",
+        "width": "35",
+        "height": "36",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-24 02.31.40.jpg",
+        "top": "410",
+        "left": "778",
+        "width": "20",
+        "height": "22",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-24 02.44.29.jpg",
+        "top": "279",
+        "left": "875",
+        "width": "60",
+        "height": "55",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-24 02.51.44.jpg",
+        "top": "429",
+        "left": "261",
+        "width": "30",
+        "height": "29",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "02-24 02.53.52.jpg",
+        "top": "396",
+        "left": "385",
+        "width": "28",
+        "height": "28",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-24 03.05.09.jpg",
+        "top": "383",
+        "left": "115",
+        "width": "44",
+        "height": "40",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-24 04.15.31.jpg",
+        "top": "322",
+        "left": "229",
+        "width": "63",
+        "height": "59",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-24 11.18.29.jpg",
+        "top": "426",
+        "left": "207",
+        "width": "47",
+        "height": "42",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "02-24 11.20.13.jpg",
+        "top": "394",
+        "left": "368",
+        "width": "40",
+        "height": "43",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "02-24 11.38.58.jpg",
+        "top": "381",
+        "left": "231",
+        "width": "59",
+        "height": "57",
+        "label": "Speed Limit 50"
+    },
+    {
+        "imageName": "02-24 02.22.55.jpg",
+        "top": "151",
+        "left": "1116",
+        "width": "65",
+        "height": "90",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "02-24 10.26.50.jpg",
+        "top": "99",
+        "left": "867",
+        "width": "101",
+        "height": "153",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-25 05.35.00.jpg",
+        "top": "266",
+        "left": "171",
+        "width": "59",
+        "height": "54",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-25 08.50.53.jpg",
+        "top": "257",
+        "left": "118",
+        "width": "66",
+        "height": "63",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "02-25 03.47.53.jpg",
+        "top": "204",
+        "left": "860",
+        "width": "72",
+        "height": "72",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "02-25 10.16.30.jpg",
+        "top": "333",
+        "left": "186",
+        "width": "51",
+        "height": "44",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-26 02.33.56.jpg",
+        "top": "61",
+        "left": "237",
+        "width": "95",
+        "height": "83",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-26 03.26.52.jpg",
+        "top": "273",
+        "left": "900",
+        "width": "45",
+        "height": "44",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-27 01.06.38.jpg",
+        "top": "175",
+        "left": "1",
+        "width": "100",
+        "height": "101",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-27 12.44.07.jpg",
+        "top": "291",
+        "left": "829",
+        "width": "26",
+        "height": "30",
+        "label": "Speed Limit 80"
+    },
+    {
+        "imageName": "01-27 12.59.04.jpg",
+        "top": "228",
+        "left": "70",
+        "width": "65",
+        "height": "57",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 01.25.14.jpg",
+        "top": "287",
+        "left": "260",
+        "width": "34",
+        "height": "31",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 01.27.11.jpg",
+        "top": "247",
+        "left": "63",
+        "width": "72",
+        "height": "73",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 01.27.56.jpg",
+        "top": "277",
+        "left": "206",
+        "width": "61",
+        "height": "53",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 01.30.14.jpg",
+        "top": "275",
+        "left": "127",
+        "width": "59",
+        "height": "51",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 11.19.02.jpg",
+        "top": "288",
+        "left": "234",
+        "width": "31",
+        "height": "30",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 11.20.03.jpg",
+        "top": "297",
+        "left": "286",
+        "width": "25",
+        "height": "25",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 11.20.47.jpg",
+        "top": "254",
+        "left": "39",
+        "width": "62",
+        "height": "58",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 11.27.23.jpg",
+        "top": "319",
+        "left": "207",
+        "width": "37",
+        "height": "34",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 11.28.10.jpg",
+        "top": "273",
+        "left": "185",
+        "width": "40",
+        "height": "36",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 11.28.34.jpg",
+        "top": "296",
+        "left": "261",
+        "width": "35",
+        "height": "33",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 11.32.42.jpg",
+        "top": "215",
+        "left": "60",
+        "width": "77",
+        "height": "71",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-29 12.46.03.jpg",
+        "top": "239",
+        "left": "51",
+        "width": "85",
+        "height": "80",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 12.46.55.jpg",
+        "top": "258",
+        "left": "214",
+        "width": "54",
+        "height": "49",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 12.48.08.jpg",
+        "top": "288",
+        "left": "351",
+        "width": "35",
+        "height": "32",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-29 12.59.00.jpg",
+        "top": "265",
+        "left": "333",
+        "width": "52",
+        "height": "48",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-30 01.35.11.jpg",
+        "top": "274",
+        "left": "339",
+        "width": "28",
+        "height": "27",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-30 01.41.13.jpg",
+        "top": "233",
+        "left": "282",
+        "width": "41",
+        "height": "39",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-30 03.29.43.jpg",
+        "top": "286",
+        "left": "292",
+        "width": "21",
+        "height": "20",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-30 12.01.22.jpg",
+        "top": "223",
+        "left": "324",
+        "width": "48",
+        "height": "43",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-30 03.23.58.jpg",
+        "top": "174",
+        "left": "1118",
+        "width": "57",
+        "height": "74",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-30 12.05.12.jpg",
+        "top": "325",
+        "left": "852",
+        "width": "19",
+        "height": "42",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-05 10.15.38.jpg",
+        "top": "360",
+        "left": "765",
+        "width": "45",
+        "height": "60",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-05 10.15.27_2.jpg",
+        "top": "248",
+        "left": "422",
+        "width": "17",
+        "height": "24",
+        "label": "Speed Limit 60"
+    },
+    {
+        "imageName": "01-09 14.53.32.jpg",
+        "top": "344",
+        "left": "212",
+        "width": "40",
+        "height": "37",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-09 14.53.59.jpg",
+        "top": "390",
+        "left": "226",
+        "width": "25",
+        "height": "24",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-09 15.05.21.jpg",
+        "top": "335",
+        "left": "286",
+        "width": "57",
+        "height": "59",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-09 15.11.57.jpg",
+        "top": "342",
+        "left": "337",
+        "width": "63",
+        "height": "67",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-09 15.18.29.jpg",
+        "top": "236",
+        "left": "147",
+        "width": "80",
+        "height": "102",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-07 11.34.55.jpg",
+        "top": "111",
+        "left": "958",
+        "width": "95",
+        "height": "148",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-07 16.39.19.jpg",
+        "top": "282",
+        "left": "1113",
+        "width": "55",
+        "height": "78",
+        "label": "Speed Limit 40"
+    },
+    {
+        "imageName": "01-24 10.06.06.jpg",
+        "top": "173",
+        "left": "1154",
+        "width": "125",
+        "height": "210",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-24 12.10.03.jpg",
+        "top": "357",
+        "left": "846",
+        "width": "23",
+        "height": "31",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-25 11.46.34.jpg",
+        "top": "474",
+        "left": "983",
+        "width": "31",
+        "height": "31",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-25 11.49.04.jpg",
+        "top": "366",
+        "left": "1226",
+        "width": "55",
+        "height": "59",
+        "label": "Speed Limit 30"
+    },
+    {
+        "imageName": "01-25 11.59.30.jpg",
+        "top": "273",
+        "left": "1008",
+        "width": "101",
+        "height": "99",
+        "label": "Speed Limit 20"
+    },
+    {
+        "imageName": "01-25 11.36.20.jpg",
+        "top": "330",
+        "left": "442",
+        "width": "69",
+        "height": "73",
+        "label": "Speed Limit 20"
+    }
+]
